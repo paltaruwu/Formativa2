@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "category": "Cine & Producción",
+    "title": "Jennifer Lawrence produce nuevos proyectos cinematográficos",
+    "date": "15 Mar 2024",
+    "content": "A través de su productora Excellent Cadaver, la actriz sigue expandiendo su trabajo detrás de cámaras desarrollando proyectos independientes y largometrajes dramáticos.",
+    "readTime": "3 min de lectura"
+  },
+  {
+    "id": 2,
+    "category": "Activismo & Sociedad",
+    "title": "Participación activa en causas de transparencia política",
+    "date": "10 Ene 2024",
+    "content": "Continúa representando activamente a la organización anticorrupción RepresentUs, promoviendo reformas gubernamentales y leyes de transparencia electoral.",
+    "readTime": "4 min de lectura"
+  },
+  {
+    "id": 3,
+    "category": "Comedia & Reconocimientos",
+    "title": "Éxito de crítica y taquilla con 'No Hard Feelings'",
+    "date": "20 Nov 2023",
+    "content": "Su aclamada interpretación cómica demostró su gran versatilidad actoral, recibiendo nominaciones en la temporada de premios de comedia.",
+    "readTime": "2 min de lectura"
+  },
+  {
+    "id": 4,
+    "category": "Festivales de Cine",
+    "title": "Presentación estelar en el Festival de Cannes",
+    "date": "22 May 2023",
+    "content": "Asistió al estreno de documentales producidos bajo su sello, destacando la importancia de apoyar a directoras emergentes en la industria.",
+    "readTime": "5 min de lectura"
+  },
+  {
+    "id": 5,
+    "category": "Nuevas Colaboraciones",
+    "title": "Anuncio de nuevo thriller dramático para la temporada 2025",
+    "date": "05 Sep 2024",
+    "content": "Se confirma su participación como protagonista y productora ejecutiva en una emocionante adaptación literaria de misterio psicológico.",
+    "readTime": "3 min de lectura"
+  },
+  {
+    "id": 6,
+    "category": "Igualdad & Diversidad",
+    "title": "Impulso a iniciativas de equidad salarial en Hollywood",
+    "date": "18 Jun 2024",
+    "content": "Lidera paneles de discusión sobre la brecha salarial de género en la industria del entretenimiento y el empoderamiento de mujeres en roles técnicos.",
+    "readTime": "4 min de lectura"
+  }
+]

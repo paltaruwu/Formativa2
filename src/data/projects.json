@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The Hunger Games",
+    "description": "Interpretación de Katniss Everdeen en la exitosa franquicia cinematográfica.",
+    "technologies": ["Acción", "Drama", "Saga"],
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500&q=80",
+    "link": "https://www.imdb.com/title/tt1392170/"
+  },
+  {
+    "id": 2,
+    "title": "Silver Linings Playbook",
+    "description": "Papel de Tiffany Maxwell que le otorgó el Premio de la Academia a Mejor Actriz.",
+    "technologies": ["Drama", "Comedia", "Oscar Winner"],
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=500&q=80",
+    "link": "https://www.imdb.com/title/tt1045658/"
+  },
+  {
+    "id": 3,
+    "title": "Don't Look Up",
+    "description": "Sátira apocalíptica original de Netflix coprotagonizada con Leonardo DiCaprio.",
+    "technologies": ["Sátira", "Netflix", "Ciencia Ficción"],
+    "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=500&q=80",
+    "link": "https://www.imdb.com/title/tt11286314/"
+  }
+]
